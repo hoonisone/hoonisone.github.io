@@ -302,7 +302,7 @@ const CONTENTS_MORE_SIZE = 10; // 더 보기 버튼 클릭 시 추가할 Content
 // Main /////////////////////////////////////////////////////////////////////////////////////////////////////////
 
 // 인스턴스 변수를 const로 하는경우.. 다른 객체에서 찾지 못하는?? 문제가 있어서 var로 통일하였다...
-var jsonFileInforManager = new JsonFileInforManager('https://hoonisone.github.io/kakao/web2/1boonTab'); // json resoure의 파일명 및 경로 생성자 생성
+var jsonFileInforManager = new JsonFileInforManager('https://hoonisone.github.io/kakao/web2/1boonTab/resource/'); // json resoure의 파일명 및 경로 생성자 생성
 var jsonResourceAccessor = new JsonResourceAccessor(jsonFileInforManager); // json resource 접근자 생성
 var jsonResourceManager = new JsonResourceManager(jsonResourceAccessor); // json resource 관리자 생성
 var listView = new ListView(elements['list']); // list element에 List기능을 더해주는 관리자 생성
