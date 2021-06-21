@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+<html lang="ko">
+  <head>
+    <meta charset="UTF-8" />
+    <meta
+      name="viewport"
+      content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0"
+    />
+    <meta http-equiv="X-UA-Compatible" content="ie=edge" />
+    <title>1boon</title>
+    <link
+      rel="stylesheet"
+      href="//maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css"
+    />
+    <style>
+      .list {
+        margin: 10px;
+        padding: 10px;
+      }
+      .content-grid {
+        display: grid;
+        grid-template-columns: min-content auto;
+        /* justify-content: left; */
+      }
+      .content-grid-item {
+        margin: 0px;
+      }
+      .content-box {
+        border: 3px black;
+        margin-bottom: 10px;
+      }
+      .content-img {
+        width: 300px;
+        height: 200px;
+      }
+      .content-discription {
+        padding-left: 10px;
+      }
+      .content-title {
+        font-size: 30px;
+        color: black;
+      }
+      .content-cp {
+        font-size: 25px;
+        color: black;
+      }
+      .content-link {
+        font-size: 25px;
+        color: black;
+      }
+    </style>
+  </head>
+  <body>
+    <div class="container">
+      <h1>1boon 콘텐츠</h1>
+
+      <div>
+        <ul id="tabs" class="nav nav-tabs">
+          <!-- 선택된탭:선택된 탭에 .active    -->
+          <li class="active"><a href="#">최근</a></li>
+          <li><a href="#">많이본</a></li>
+          <li><a href="#">실시간인기</a></li>
+        </ul>
+      </div>
+
+      <div id="list"></div>
+
+      <div id="more" class="text-center">
+        <button type="button" class="btn btn-default">더보기</button>
+      </div>
+    </div>
+    <script src="app.js"></script>
+  </body>
+</html>
