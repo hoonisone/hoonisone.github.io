@@ -33,6 +33,7 @@ fetch("https://hoonisone.github.io/word_note/word.json")
 });
 
 answer_button.addEventListener('click', show_answer);
+prev_button.addEventListener('click',prev);
 next_button.addEventListener('click',next);
 //button.removeEventListener('click', buttonClickHandler);
 
