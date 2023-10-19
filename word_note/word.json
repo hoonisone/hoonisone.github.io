@@ -5,17 +5,18 @@
             ["blood drive", "헌혈 캠페인"],
             ["mandate", "요구하다. 명령하다."],
             ["be on time", "시간을 잘 지키다."],
-            ["hold off", "미루다."]
+            ["hold off", "미루다."],
+            ["", ""]
         ]
     },
     {
         "Script":"나는 itinerary 중 after the fact 나의 coach를 amend 해야 했다. one's hands are tied.",
         "Words":[
             ["itinerary", "여행 일정"],
+            ["after the fact", "(이미 일이 벌어지고 난) 사후에"],
             ["coach", "(항공기의) 일반석, 이코노미석"],
             ["amend", "변경하다. 수정하다."],
             ["one's hands are tied", "어쩔 수 없다."],
-            ["after the fact", "(이미 일이 벌어지고 난) 사후에"],
             ["", ""]
         ]
     },
@@ -26,7 +27,8 @@
             ["provision", "임시의"],
             ["file", "신청하다."],
             ["maternity leave", "육아 휴직"],
-            ["jump at the chance", "기회를 (덥석) 잡다."]
+            ["jump at the chance", "기회를 (덥석) 잡다."],
+            ["", ""]
         ]
     },
     {
