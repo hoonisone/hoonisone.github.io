@@ -1,10 +1,11 @@
 [
     {
-        "Script":"aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa",
+        "Script":"나는 평소에 blood drive에 대해 be on time 했지만, 이번에는 hold off 할 것을 mandate 해야 했다.",
         "Words":[
-            ["word1", "meaning1"],
-            ["word1", "meaning1"],
-            ["word1", "meaning1"]
+            ["blood drive", "헌혈 캠페인"],
+            ["mandate", "요구하다. 명령하다."],
+            ["be on time", "시간을 잘 지키다."]
+            ["hold off", "미루다."]
         ]
 
     },
