@@ -33,12 +33,14 @@
         ]
     },
     {
-        "Script":"",
+        "Script":"하늘로 soar 했다가 take a leap 하는 것은 breathtaking 하고 electrifying 한 sensation과 exhilaration이 들게 한다.",
         "Words":[
-            ["", ""],
-            ["", ""],
-            ["", ""],
-            ["", ""],
+            ["breathtaking", "숨 막히는"],
+            ["electrifying", "전율이 이는, 열광시키는"],
+            ["exhilaration", "쾌감"],
+            ["sensation", "기분"],
+            ["soar", "솓아오르다, 솟구치다."],
+            ["take a leap", "도약하다."],
             ["", ""]
         ]
     },
