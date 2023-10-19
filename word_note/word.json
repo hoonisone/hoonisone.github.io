@@ -21,9 +21,10 @@
         ]
     },
     {
-        "Script":"나는 비록 provision 하지만 회사에서 maternity leave을 tender한다길레 바로 file (for)하여 jump at the chance하였다.",
+        "Script":"나는 비록 provision 하며 carry over이 안되지만 회사에서 maternity leave을 tender한다길레 바로 file (for)하여 jump at the chance하였다.",
         "Words":[
             ["tender", "주다, 제공하다."],
+            ["carry over", "이월하다."],
             ["provision", "임시의"],
             ["file", "신청하다."],
             ["maternity leave", "육아 휴직"],
@@ -82,6 +83,7 @@
         ]
     },
     {
+        "_comment":", 안 붙여서 자꾸 문법이 망가지니깐 그냥 둘 것..
         "Script":"",
         "Words":[
             ["", ""],
