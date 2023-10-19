@@ -5,8 +5,7 @@
             ["blood drive", "헌혈 캠페인"],
             ["mandate", "요구하다. 명령하다."],
             ["be on time", "시간을 잘 지키다."],
-            ["hold off", "미루다."],
-            ["", ""]
+            ["hold off", "미루다."]
         ]
     },
     {
@@ -16,8 +15,7 @@
             ["after the fact", "(이미 일이 벌어지고 난) 사후에"],
             ["coach", "(항공기의) 일반석, 이코노미석"],
             ["amend", "변경하다. 수정하다."],
-            ["one's hands are tied", "어쩔 수 없다."],
-            ["", ""]
+            ["one's hands are tied", "어쩔 수 없다."]
         ]
     },
     {
@@ -28,20 +26,18 @@
             ["provision", "임시의"],
             ["file", "신청하다."],
             ["maternity leave", "육아 휴직"],
-            ["jump at the chance", "기회를 (덥석) 잡다."],
-            ["", ""]
+            ["jump at the chance", "기회를 (덥석) 잡다."]
         ]
     },
     {
         "Script":"하늘로 soar 했다가 take a leap 하는 것은 breathtaking 하고 electrifying 한 sensation과 exhilaration이 들게 한다.",
         "Words":[
-            ["breathtaking", "숨 막히는"],
-            ["electrifying", "전율이 이는, 열광시키는"],
-            ["exhilaration", "쾌감"],
-            ["sensation", "기분"],
             ["soar", "솓아오르다, 솟구치다."],
             ["take a leap", "도약하다."],
-            ["", ""]
+            ["breathtaking", "숨 막히는"],
+            ["electrifying", "전율이 이는, 열광시키는"],
+            ["sensation", "기분"],
+            ["exhilaration", "쾌감"]
         ]
     },
         {
@@ -54,12 +50,72 @@
             ["proposed legislation", "상정안"],
             ["flabbergasted", "깜짝 놀란"],
             ["laud", "칭찬하다. 칭송하다."],
-            ["paper tiger", "종이호랑이(겉보기에는 힘이 셀 것 같으나 사실은 아주 약한 것)"],
             ["crack down on", "~에 단호한 조치를 취하다."],
-            ["", ""]
+            ["paper tiger", "종이호랑이(겉보기에는 힘이 셀 것 같으나 사실은 아주 약한 것)"]
         ]
     },
         {
+        "Script":"비록 그는 being award-winning한 것으로 be renowned for 하지만 그의 발언은 in no way, advisable 하지 않았다.",
+        "Words":[
+            ["award-winning", "수상을 한, 상을 받은"],
+            ["be renowned for", "~으로 유명하다."],
+            ["in no way", "경로 ~ 않다."],
+            ["advisable", "바람직한, 권장할만한"]
+        ]
+    },
+        {
+        "Script":"entiree를 do away with 하여 세금의 shortfal을 해결하였고, 그 수치를 tally 했더니 최근의 질병 outbreak 해결을 위해 전국민을 vaccinate할 에산이 생겼다.",
+        "Words":[
+            ["entiree", "은퇴자, 퇴직자"],
+            ["do away with", "~을 없애다."],
+            ["shortfal", "부족"],
+            ["tally", "합산하다."],
+            ["outbreak", "발생"],
+            ["vaccinate", "예방 접종을 하다."]
+        ]
+    },
+        {
+        "Script":"world wide 공룡들이 toughest 한 security measure가 적용된 handheld 장비를 사용했다는 사실은 paleontologist들을 놀라게 했다.",
+        "Words":[
+            ["world wide", "전세계적으로"],
+            ["tough", "강한, 강력한"],
+            ["security measure", "보안 정책"],
+            ["handheld", "휴대용의"],
+            ["paleontologist", "고생물학자"]
+        ]
+    },
+    {
+        "Script":"그는 자신의 딸을 engage 하던 때 debate  해야 했다. 갑자기 snow storm이 불더니 culprit이 나타나 자신이 embezzle했다고 confess했다.",
+        "Words":[
+            ["engage", "약혼시키다."],
+            ["debate", "논쟁하다."],
+            ["snow storm", "눈보라"],
+            ["culprit", "범인, 장본인"],
+            ["embezzle", "횡렬하다."],
+            ["confess", "고백하다. 자백하다."]
+        ]
+    },
+    {
+        "Script":"나는 그의 숨겨진 dexterity에 marvel at 했다. 그래서 이 사실을 알리기 위해 flier을 만들어 게시판에 thumbtack을 사용해서 post up 했다.",
+        "Words":[
+            ["dexterity", "재주"],
+            ["marvel at", "~에 놀라다."],
+            ["flier", "전단, 광고지"],
+            ["thumbtack", "압정"],
+            ["post up", "~을 붙이다. ~을 게시하다."]
+        ]
+    },
+    {
+        "Script":"provided 너가 지금 keep your nose to the gridstone한다면 high-end 서비스를 누릴 것이고, slack off 하다면 평생 남에게 intrude 당하고 budget한 것만 찾아다니며 mail delivery도 안되는 곳에 살것이다.",
+        "Words":[
+            ["provided", ""],
+            ["", ""],
+            ["", ""],
+            ["", ""],
+            ["", ""]
+        ]
+    },
+    {
         "Script":"",
         "Words":[
             ["", ""],
@@ -69,7 +125,7 @@
             ["", ""]
         ]
     },
-        {
+    {
         "Script":"",
         "Words":[
             ["", ""],
@@ -79,7 +135,107 @@
             ["", ""]
         ]
     },
-        {
+    {
+        "Script":"",
+        "Words":[
+            ["", ""],
+            ["", ""],
+            ["", ""],
+            ["", ""],
+            ["", ""]
+        ]
+    },
+    {
+        "Script":"",
+        "Words":[
+            ["", ""],
+            ["", ""],
+            ["", ""],
+            ["", ""],
+            ["", ""]
+        ]
+    },
+    {
+        "Script":"",
+        "Words":[
+            ["", ""],
+            ["", ""],
+            ["", ""],
+            ["", ""],
+            ["", ""]
+        ]
+    },
+    {
+        "Script":"",
+        "Words":[
+            ["", ""],
+            ["", ""],
+            ["", ""],
+            ["", ""],
+            ["", ""]
+        ]
+    },
+    {
+        "Script":"",
+        "Words":[
+            ["", ""],
+            ["", ""],
+            ["", ""],
+            ["", ""],
+            ["", ""]
+        ]
+    },
+    {
+        "Script":"",
+        "Words":[
+            ["", ""],
+            ["", ""],
+            ["", ""],
+            ["", ""],
+            ["", ""]
+        ]
+    },
+    {
+        "Script":"",
+        "Words":[
+            ["", ""],
+            ["", ""],
+            ["", ""],
+            ["", ""],
+            ["", ""]
+        ]
+    },
+    {
+        "Script":"",
+        "Words":[
+            ["", ""],
+            ["", ""],
+            ["", ""],
+            ["", ""],
+            ["", ""]
+        ]
+    },
+    {
+        "Script":"",
+        "Words":[
+            ["", ""],
+            ["", ""],
+            ["", ""],
+            ["", ""],
+            ["", ""]
+        ]
+    },
+    {
+        "Script":"",
+        "Words":[
+            ["", ""],
+            ["", ""],
+            ["", ""],
+            ["", ""],
+            ["", ""]
+        ]
+    },
+    {
         "Script":"",
         "Words":[
             ["", ""],
