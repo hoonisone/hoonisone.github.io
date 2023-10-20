@@ -1,14 +1,11 @@
 let script_box = document.getElementById('script_box');
 let answer_box = document.getElementById('answer_box');
 
-script_box.innerText = "Script"
-answer_box.innerText = "Script"
-
 const answer_button = document.getElementById('answer_button');
 const prev_button = document.getElementById('prev_button');
 const next_button = document.getElementById('next_button');
 const index_view = document.getElementById('index_view');
-
+var slider = document.getElementById("range_slider");
  
 const buttonClickHandler = () =>{
     script_box.innerText = "Undated"
@@ -30,6 +27,7 @@ fetch("https://hoonisone.github.io/word_note/word.json")
     contents = jsondata
     len = jsondata.length
     new_content(idx)
+    
 });
 
 answer_button.addEventListener('click', show_answer);
@@ -75,4 +73,9 @@ function maks_answer_script(words){
         answer += `${word}: ${meaning}\n`
     }
     return answer
+}
+
+slider.oninput = function() {
+    idx = parseInt(this.value/100*(len-1))
+    new_content(idx)
 }
