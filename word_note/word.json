@@ -108,81 +108,80 @@
     {
         "Script":"provided 너가 지금 keep your nose to the gridstone한다면 high-end 서비스를 누릴 것이고, slack off 하다면 평생 남에게 intrude 당하고 budget한 것만 찾아다니며 mail delivery도 안되는 곳에 살것이다.",
         "Words":[
-            ["provided", ""],
-            ["", ""],
-            ["", ""],
-            ["", ""],
-            ["", ""]
+            ["provided", "만약 ~ 라면, if와 동일"],
+            ["keep your nose to the gridstone", "열심히 공부하다."],
+            ["high-end", "고급의"],
+            ["slack off", "게으름 부리다."],
+            ["intrude", "개입하다, 간섭하다, 방해하다."],
+            ["budget", "저렴한"],
+            ["mail delivery", "우편 배달"]
         ]
     },
     {
-        "Script":"",
+        "Script":"그는 presentable 하도록 열심히 make an effort 했으나 fall on hard time 했다. 이제는 time-off를 head할 때 이다.",
         "Words":[
-            ["", ""],
-            ["", ""],
-            ["", ""],
-            ["", ""],
-            ["", ""]
+            ["presentable", "외모가 단정한, 남 앞에 내놓읖만한"],
+            ["make an effort", "노력하다."],
+            ["fall on hard time", "힘든 일이 많다. 불운한 일을 겼다."],
+            ["time-off", "휴식, 일을 쉼"],
+            ["head", "~로 가다, ~로 향하다."]
         ]
     },
     {
-        "Script":"",
+        "Script":"의사는 lask resort로서 medication을 prescript했으나 나는 이를 refuse to 했었다. 하지만 점차 생존에 대한 a craving for 이 거부감을 trump 하여 처방을 수락하고 stick했다.",
         "Words":[
-            ["", ""],
-            ["", ""],
-            ["", ""],
-            ["", ""],
-            ["", ""]
+            ["lask resort", "최수의 수단"],
+            ["medication", "약, 약물"],
+            ["prescript", "처방하다."],
+            ["refuse to", "거절하다."],
+            ["a craving for", "~에 대한 욕구"],
+            ["trump", "~을 능가하다. 이기다."],
+            ["stick", "고수하다. 충실히 지키다."]
         ]
     },
     {
-        "Script":"",
+        "Script":"어제 옷가게에서 slash 하길래 impulse purchase 해버렸지만 steal도 있었다.",
         "Words":[
-            ["", ""],
-            ["", ""],
-            ["", ""],
-            ["", ""],
-            ["", ""]
+            ["slash", "대폭 할인하다."],
+            ["impulse purchase", "충동 구매"],
+            ["steal", "횡재, 의외로 싸게 산 물건"]
         ]
     },
     {
-        "Script":"",
+        "Script":"그 ranch 에서는 reception이 좋지 않아 고생햇지만 safe and sound 한 시간을 보냈다.",
         "Words":[
-            ["", ""],
-            ["", ""],
-            ["", ""],
-            ["", ""],
-            ["", ""]
+            ["ranch", "목장"],
+            ["reception", "(TV, 라디오) 수신, 수신력"],
+            ["safe and sound", "무사히, 탈 없이"]
         ]
     },
     {
-        "Script":"",
+        "Script":"나의 acquaintance들은 injury로 인한 brace 착용의 불편함은 마땅히 compromise 해야 한다고 말했다.",
         "Words":[
-            ["", ""],
-            ["", ""],
-            ["", ""],
-            ["", ""],
-            ["", ""]
+            ["acquaintance", "지인"],
+            ["injury", "부상"],
+            ["brace", "보호대"],
+            ["compromise", "타협하다. 양보하다."]
         ]
     },
     {
-        "Script":"",
+        "Script":"quite a 비용을 들이기 전에 specimen을 보고 shell out for할지 결정하는 것이 좋다.",
         "Words":[
-            ["", ""],
-            ["", ""],
-            ["", ""],
-            ["", ""],
-            ["", ""]
+            ["quite a", "상당한, 대단한"],
+            ["specimen", "견본"],
+            ["shell out for", "~에 돈을 들이다."]
         ]
     },
     {
-        "Script":"",
+        "Script":"그 convention은 be meant된 remark로 인해 perplex되었으나. 곧 litter에 대한 disposal 장소를 designate하고 마무리 되었다.",
         "Words":[
-            ["", ""],
-            ["", ""],
-            ["", ""],
-            ["", ""],
-            ["", ""]
+            ["convention", "대회의(아주 큰 회의)"],
+            ["be meant", "의도되다."],
+            ["remark", "발언"],
+            ["perplex", "혼란스럽게 하다."],
+            ["litter", "쓰레기(불가산)"],
+            ["disposal", "처분, 처리"],
+            ["designate", "명시하다. 지정하다."]
         ]
     },
     {
