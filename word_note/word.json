@@ -261,99 +261,92 @@
         ]
     },
     {
-        "Script":"",
+        "Script":"나는 먼저 lemma로 cornerstone을 깔고 corollary를 증명하여 최종적으로 polynomial에 대한 성질을 verify하였다.",
         "Words":[
-            ["ancestor", "조상, 선조, (기계의) 원형, 전신"],
-            ["corollary", "당연한 귀결, 따름정리"],
-            ["successor", "후임자, 계승자"],
-            ["splice", "(밧줄의 두 끝을 함께 꼬아서) 잇다."],
             ["lemma", "보조정리(증명과정에 사용할 목적으로 증명한 명제)"],
-            ["", ""],
-            ["", ""],
-            ["", ""],
-            ["", ""],
-            ["", ""],
-            ["", ""],
-            ["", ""],
-            ["", ""],
-            ["", ""],
-            ["", ""],
-            ["", ""],
-            ["", ""],
-            ["", ""],
-            ["", ""],
-            ["", ""],
-            ["", ""],
-            ["", ""],
-            ["", ""],
-            ["", ""],
-            ["", ""],
-            ["", ""],
-            ["", ""],
-            ["", ""],
-            ["", ""],
-            ["", ""],
-            ["", ""]
+            ["cornerstone", "주춧돌, 초석"],
+            ["corollary", "당연한 귀결, 따름정리"],
+            ["polynomial", "다항식"],
+            ["verify", "증명하다. 입증하다."]
+        ]
+    },
+    {
+        "Script":"이 disk는 radius가 existing 제품과 seldom하게 corresponde 한 것으로 보아 fall behind the times 제품이다. ",
+        "Words":[
+            ["disk", "둥글납작한 판, 원반"],
+            ["radius", "반지름"],
+            ["seldom", "드물게, 좀 처럼 ~ 않는 (부사)"],
+            ["existing", "기존의, 현재 사용되는"],
+            ["correspond", "일치하다. 부합하다. ~에 해당하다."],
+            ["fall behind the times", "세상에 뒤지다, 시대에 뒤떨어지다."]
+        ]
+    },
+    {
+        "Script":"deliberate한 끝에 recursive한 linkage 시스템을 고안하여 underlying한 drawback을 shrink하였다.",
+        "Words":[
+            ["deliberate", "고의의, 의도적인, 신중한, 숙고하다. 신중히 생각하다. (바둑 둘 때 이세돌)"],
+            ["recursive", "재귀적인"],
+            ["linkage", "연결, 결합, 관련성, 링크(시스템)"],
+            ["underlying", "근본적인, 밑에 있는"],
+            ["drawback", "결점, 문제점"],
+            ["shrink", "(옷을 뜨거운 물에 빨아, 규모나 양이) 줄어들다, 줄어들게 하다."]
+        ]
+    },
+    {
+        "Script":"lexicon을 통해 고대의 언어는 현대 언어와 달리 irregular하고 recurrent한 distinctions이 있어 prone-to-error하며 rectification이 필요함을 알 수 있었다.",
+        "Words":[
+            ["lexicon", "어휘, 어휘 목록, (고대 언어의) 사전"],
+            ["irregular", "고르지 못한, 불규칙적인"],
+            ["recurrent", "되풀이되는, 반복되는"],
+            ["distinctions", "구별, 특징, 차이"],
+            ["prone-to-error", "오류가 생기기 쉬운"],
+            ["rectification", "개정, 교정, 수정, 조정, 정류"]
+        ]
+    },
+    {
+        "Script":"deliberation의 중요성을 underestimate한 successor는 ancestor에게 유산을 inherit하지 못했다.",
+        "Words":[
+            ["deliberation", "숙고, 숙의, 신중함"],
+            ["underestimate", "과소평가하다., 저평가하다."],
+            ["successor", "후임자, 계승자"],
+            ["ancestor", "조상, 선조, (기계의) 원형, 전신"],
+            ["inherit", "상속받다, 물려받다."]
+        ]
+    },
+    {
+        "Script":"그의 criterion은 degenerate하여 모든 생각을 dichotomize하기 시작했고 by its nature 하게 superfluous 한 attribute만이 남았다.",
+        "Words":[
+            ["criterion", "(판단이나 결정을 위한) 기준"],
+            ["degenerate", "(도덕적, 육체적, 정신적으로) 악화되다., 퇴폐적인, 타락한"],
+            ["dichotomize", "이분법화 하다."],
+            ["by its nature", "그 본질상, 그 본질적으로"],
+            ["superfluous", "(더 이상) 필요치 않은"],
+            ["attribute", "자질, 속성"]
         ]
     },
     {
         "Script":"",
         "Words":[
-            ["", ""],
-            ["", ""],
-            ["", ""],
-            ["", ""],
-            ["", ""]
-        ]
-    },
-    {
-        "Script":"",
-        "Words":[
-            ["", ""],
-            ["", ""],
-            ["", ""],
-            ["", ""],
-            ["", ""]
-        ]
-    },
-    {
-        "Script":"",
-        "Words":[
-            ["", ""],
-            ["", ""],
-            ["", ""],
-            ["", ""],
-            ["", ""]
-        ]
-    },
-    {
-        "Script":"",
-        "Words":[
-            ["", ""],
-            ["", ""],
-            ["", ""],
-            ["", ""],
-            ["", ""]
-        ]
-    },
-    {
-        "Script":"",
-        "Words":[
-            ["", ""],
-            ["", ""],
-            ["", ""],
-            ["", ""],
-            ["", ""]
-        ]
-    },
-    {
-        "Script":"",
-        "Words":[
-            ["", ""],
-            ["", ""],
-            ["", ""],
-            ["", ""],
-            ["", ""]
+            ["maximal", "최대한의, 최고조의"],
+            ["dense", "빽빽한, 밀집한"],
+            ["linguistically", "언어적으로, 언어학적으로"],
+            ["epoch", "시대, 중요한 사건"],
+            ["be in accord with", "~와 일치하다."],
+            ["quadrilateral", "사각형"],
+            ["prone to N", "~하기 쉬운, ~하는 경향이 있다."],
+            ["resemblance", "닮음, 유사함, 비슷함"],
+            ["is grounded in", "~에 기반하다."],
+            ["splice", "(밧줄의 두 끝을 함께 꼬아서) 잇다."],
+            ["implant", "끼워넣다. 이식하다."],
+            ["segment", "부분, (과일, 나무 등의 ) 한 쪽"],
+            ["cast into", "~에 던져넣다."],
+            ["accord", "(공식적인) 합의, (권위, 지위 등을) 부여하다., 부합하다."],
+            ["drift", "(서성히 일어나는) 이동 [추이], (해, 항공기의) 표류, 서서히 이동하다, 움직이다., (물, 공기에) 떠가다, 표류하다."],
+            ["attenuate", "(정도, 농도 등을) 약화시키다, 희석시키다."],
+            ["incorporate", "(일부러) 포함하다, (법인체를) 설립하다."],
+            ["spline", "(금속, 나무 등의) 가늘고 긴 박판"],
+            ["bear", "참다, 견디다, 곰"],
+            ["bear some resemblance (to)", "(~와) 다소 닮은 데가 있다."]
         ]
     },
     {
