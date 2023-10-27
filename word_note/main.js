@@ -79,3 +79,5 @@ slider.oninput = function() {
     idx = parseInt(this.value/100*(len-1))
     new_content(idx)
 }
+
+slider.value = 0

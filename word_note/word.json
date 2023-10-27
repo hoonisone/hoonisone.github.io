@@ -325,185 +325,165 @@
         ]
     },
     {
+        "Script":"정글에서는 thirsty에 prone to한데, 그걸 bear 하기 힘들면 강물이라도 maximal로 filteration하여 마셔야 한다.",
+        "Words":[
+            ["thirsty", "목이 마른, ~을 갈망하는, 마른, 건조한"],
+            ["prone to N", "~하기 쉬운, ~하는 경향이 있다."],
+            ["bear", "참다, 견디다, 곰"],
+            ["maximal", "최대한의, 최고조의"],
+            ["filtration", "여과, 거르기"]
+        ]
+    },
+    {
+        "Script":"우리 학교 기숙하는 false alarm이 많아 모두가 neglectable 하다고 생각하며 status quo는 아무도 그것에 give cradit to 하지 않는다.",
+        "Words":[
+            ["problematic", "문제가 있는[많은]"],
+            ["false alarm", "허위 경보"],
+            ["neglectable", "무시할만한"],
+            ["status quo", "현재 상황"],
+            ["give credit to", "~을 믿다. 신용하다."]
+        ]
+    },
+    {
+        "Script":"수업 내용에 대해 transcription를 위해 먼저 note-taking을 했고 컴퓨터에 type-in 하려 하니 case-sensitive하지도 않고 읽기 난해하여 적당히 contexutualise했다.",
+        "Words":[
+            ["transcription", "전사, 배껴쓰기, 사본, 옮겨적기, 문자화"],
+            ["note-taking", "필기, 적어 두기"],
+            ["type-in", "입력하다. (추가어 따위를 본문에) 타이프하여 삽입하다."],
+            ["case-sensitive", "(프로그램이) 대소문자를 구분하는"],
+            ["contextualised", "문맥에 맞게 해석하다."]
+        ]
+    },
+    {
+        "Script":"dense하게 blended된 traffic sign들은 ungent한 순간에 재 역할을 하지 못했다.",
+        "Words":[
+            ["dense", "빽빽한, 밀집한"],
+            ["blend", "섞다, 혼합하다."],
+            ["traffic sign", "교통 표지판"],
+            ["urgent", "긴급한, 시급한"]
+        ]
+    },
+    {
+        "Script":"epoch를 바탕으로 한 conjucture은 flawed할 수 있다. coherence하고 pertinence한 추론만이 accidental한 케이스를 걸러 내고 worthwhile한 결과를 낼 수 있다.",
+        "Words":[
+            ["epoch", "시대, 중요한 사건"],
+            ["conjecture", "추측"],
+            ["flawed", "결합이 있는"],
+            ["coherence", "일관성"],
+            ["pertinence", "적절성"],
+            ["accidental", "우연한"],
+            ["worthwhile", "가치있는"]
+        ]
+    },
+    {
+        "Script":"divergence가 있더라도 instant한 sentiment에 휘둘리지 않고 갈등을 mitigate하고 eclectic한 방안을 모색해야 한다.",
+        "Words":[
+            ["divergence", "큰 의견 차이"],
+            ["instant", "즉각적인, 순간, 아주 짧은 동안"],
+            ["sentiment", "정서, 감정"],
+            ["mitigate", "완화하다."],
+            ["eclectic", "절충적인, 다방면에 걸친"]
+        ]
+    },
+    {
+        "Script":"punctuation은 linguistically적으로 pertinent하면 매우 유용하지만 결국 incidental한 것으로 clutter하면 awkward할 수 있다.",
+        "Words":[
+            ["punctuation", "구두점"],
+            ["linguistically", "언어적으로, 언어학적으로"],
+            ["pertinent", "(특정한 상황에) 적절한[관련 있는]"],
+            ["incidental", "부수적인"],
+            ["clutter", "(너무 많은 것들을 어우선하게) 채우다, 집어넣다., 잡동사니, 어수선함"],
+            ["awkward", "어색한"]
+        ]
+    },
+    {
+        "Script":"이 panel의 한 segment는 quadrilaterial과 모양이 정확히 be in accord with 하므로 resemblance이다.",
+        "Words":[
+            ["panel", "(목재, 유리, 금속 등의 사각형) 판"],
+            ["segment", "부분, (과일, 나무 등의 ) 한 쪽"],
+            ["quadrilateral", "사각형"],
+            ["be in accord with", "~와 일치하다."],
+            ["resemblance", "닮음, 유사함, 비슷함"]
+        ]
+    },
+    {
+        "Script":"바다에서 drift 하는 상황에는 빨리 물병을 바다에 cast into하여 물을 얻고 염분을 get rid of 하여 염도를 attenuate해야 한다.",
+        "Words":[
+            ["drift", "(서성히 일어나는) 이동 [추이], (해, 항공기의) 표류, 서서히 이동하다, 움직이다., (물, 공기에) 떠가다, 표류하다."],
+            ["cast into", "~에 던져넣다."],
+            ["get rid of", "~을 제거하다."],
+            ["attenuate", "(정도, 농도 등을) 약화시키다, 희석시키다."]
+        ]
+    },
+    {
+        "Script":"무너진 벽을 보수하였지만 awkwardly하게 보여 follow-up으로 artistic한 apline을 implant하여 authentic한 벽을 만들었다. ",
+        "Words":[
+            ["awkwardly", "어색하게"],
+            ["follow-up", "후속 조치, 후속편"],
+            ["artistic", "에술의, 에술적인, 아름다운"],
+            ["spline", "(금속, 나무 등의) 가늘고 긴 박판"],
+            ["implant", "끼워넣다. 이식하다."],
+            ["authentic", "진본인, 진짜인, 정확한, 진짜와 꼭 같게 모사항"]
+        ]
+    },
+    {
+        "Script":"catalogue를 일일이 선형으로 refer to 하는 것은 scalability가 좋지 않아 advocacy를 받지 못했다.",
+        "Words":[
+            ["catalogue", "(상품자료의) 목록, 목록을 만들다."],
+            ["refer to", "~을 참고하다. 언급하다. 조회하다."],
+            ["scalability", "확장성 (데이터 양, 상요자 수의 증대에 유연하게 대응할 수 있는 정도"],
+            ["advocacy", "지지, 변호, 옹호"]            
+        ]
+    },
+    {
+        "Script":"인증 방식은 다양하게 divere해 왔으나 그중 glossary에 사용자가 자주 사용하는 단어를 저장하고 유사도를 통해 authentication하는 방식에서 stem from 한 인증 방식은 다소 instability가 있어 거의 쓰이지 않는다.",
+        "Words":[
+            ["diverge", "(다른 방향으로) 갈라지다. 나뉘다. 갈리다."],
+            ["glossary", "(특정 텍스트에 나온) 용어 사전"],
+            ["authentication", "입증, 증명, 인증"],
+            ["stem from", "~에서 기인하다, 유래하다. 생겨나다."],
+            ["instability", "불안정"]            
+        ]
+    },
+    {
         "Script":"",
         "Words":[
-            ["maximal", "최대한의, 최고조의"],
-            ["dense", "빽빽한, 밀집한"],
-            ["linguistically", "언어적으로, 언어학적으로"],
-            ["epoch", "시대, 중요한 사건"],
-            ["be in accord with", "~와 일치하다."],
-            ["quadrilateral", "사각형"],
-            ["prone to N", "~하기 쉬운, ~하는 경향이 있다."],
-            ["resemblance", "닮음, 유사함, 비슷함"],
-            ["is grounded in", "~에 기반하다."],
-            ["splice", "(밧줄의 두 끝을 함께 꼬아서) 잇다."],
-            ["implant", "끼워넣다. 이식하다."],
-            ["segment", "부분, (과일, 나무 등의 ) 한 쪽"],
-            ["cast into", "~에 던져넣다."],
-            ["accord", "(공식적인) 합의, (권위, 지위 등을) 부여하다., 부합하다."],
-            ["drift", "(서성히 일어나는) 이동 [추이], (해, 항공기의) 표류, 서서히 이동하다, 움직이다., (물, 공기에) 떠가다, 표류하다."],
-            ["attenuate", "(정도, 농도 등을) 약화시키다, 희석시키다."],
             ["incorporate", "(일부러) 포함하다, (법인체를) 설립하다."],
-            ["spline", "(금속, 나무 등의) 가늘고 긴 박판"],
-            ["bear", "참다, 견디다, 곰"],
-            ["bear some resemblance (to)", "(~와) 다소 닮은 데가 있다."],
-            ["transcription", "전사, 배껴쓰기, 사본, 옮겨적기, 문자화"],
-            ["contextualised", "문맥에 맞게 해석하다."],
-            ["incidental", "부수적인"],
-            ["problematic", "문제가 있는[많은]"],
-            ["refer to", "~을 참고하다. 언급하다. 조회하다."],
-            ["case-sensitive", "(프로그램이) 대소문자를 구분하는"],
-            ["punctuation", "구두점"],
-            ["entry", "입장, 등장, 출입, 가입, (컴퓨터의) 입력, 입구, 문"],
-            ["type-in", "입력하다. (추가어 따위를 본문에) 타이프하여 삽입하다."],
             ["express", "(감정, 의견 등을) 나타내다. 표현하다. 전달하다. 급행의, 신속한, 속달의"],
-            ["note-taking", "필기, 적어 두기"],
-            ["authentication", "입증, 증명, 인증"],
-            ["authentic", "진본인, 진짜인, 정확한, 진짜와 꼭 같게 모사항"],
-            ["panel", "(목재, 유리, 금속 등의 사각형) 판"],
-            ["traffic sign", "교통 표지판"],
-            ["sentiment", "정서, 감정"],
-            ["filtration", "여과, 거르기"],
-            ["advocacy", "지지, 변호, 옹호"],
-            ["status quo", "현재 상황"],
-            ["instant", "즉각적인, 순간, 아주 짧은 동안"],
-            ["stem from", "~에서 기인하다, 유래하다. 생겨나다."],
-            ["glossary", "(특정 텍스트에 나온) 용어 사전"],
-            ["false alarm", "허위 경보"],
-            ["divergence", "큰 의견 차이"],
-            ["diverge", "(다른 방향으로) 갈라지다. 나뉘다. 갈리다."],
-            ["follow-up", "후속 조치, 후속편"],
+            ["entry", "입장, 등장, 출입, 가입, (컴퓨터의) 입력, 입구, 문"],
+
+            ["is grounded in", "~에 기반하다."],
+            
+            ["splice", "(밧줄의 두 끝을 함께 꼬아서) 잇다."],
+            ["per se", "그 자체로"],
+            ["characterized by", "~을 특징으로 하는"],
+            ["accord", "(공식적인) 합의, (권위, 지위 등을) 부여하다., 부합하다."],
+            ["bear some resemblance (to)", "(~와) 다소 닮은 데가 있다."],
             ["rear", "(어떤 것의) 뒤쪽, 궁둥이, 뒤쪽의"],
             ["rear-view mirror", "백 미러"],
-            ["flawed", "결합이 있는"],
-            ["neglectable", "무시할만한"],
-            ["instability", "불안정"],
-            ["conjecture", "추측"],
-            ["give credit to", "~을 믿다. 신용하다."],
-            ["thirsty", "목이 마른, ~을 갈망하는, 마른, 건조한"],
-            ["urgent", "긴급한, 시급한"],
-            ["blend", "섞다, 혼합하다."],
-            ["coherence", "일관성"],
             ["holistic", "전체론의 -> 전체적인?"],
-            ["mitigate", "완화하다."],
-            ["clutter", "(너무 많은 것들을 어우선하게) 채우다, 집어넣다., 잡동사니, 어수선함"],
-            ["catalogue", "(상품자료의) 목록, 목록을 만들다."],
             ["inset", "덧붙인 것, 끼워넣다."],
-            ["eclectic", "절충적인, 다방면에 걸친"],
-            ["awkwardly", "어색하게"],
-            ["awkward", "어색한"],
-            ["artistic", "에술의, 에술적인, 아름다운"],
-            ["scalability", "확장성 (데이터 양, 상요자 수의 증대에 유연하게 대응할 수 있는 정도"],
-            ["get rid of", "~을 제거하다."],
-            ["worthwhile", "가치있는"],
-            ["per se", "그 자체로"],
             ["formulate", "(세심히) 만들어내다. (의견을 공들여) 표현[진술]하다."],
-            ["quadrangle", "(특히 학교나 대학에서 건물이 사방으로 둘러싸고 있는) 사각형 안뜰"],
-            ["accidental", "우연한"],
-            ["pertinence", "적절성"],
-            ["pertinent", "(특정한 상황에) 적절한[관련 있는]"],
-            ["characterized by", "~을 특징으로 하는"],
-            ["", ""],
-            ["", ""],
-            ["", ""],
-            ["", ""],
-            ["", ""],
-            ["", ""],
-            ["", ""],
-            ["", ""],
-            ["", ""],
-            ["", ""],
-            ["", ""],
-            ["", ""],
-            ["", ""],
-            ["", ""],
-            ["", ""],
-            ["", ""],
-            ["", ""],
-            ["", ""],
-            ["", ""],
-            ["", ""],
-            ["", ""],
-            ["", ""],
-            ["", ""],
-            ["", ""],
-            ["", ""],
-            ["", ""],
-            ["", ""],
-            ["", ""],
-            ["", ""],
-            ["", ""],
-            ["", ""],
-            ["", ""],
-            ["", ""],
-            ["", ""],
-            ["", ""],
-            ["", ""],
-            ["", ""],
-            ["", ""],
-            ["", ""],
-            ["", ""],
-            ["", ""],
-            ["", ""],
-            ["", ""],
-            ["", ""],
-            ["", ""],
-            ["", ""],
-            ["", ""],
-            ["", ""],
-            ["", ""],
-            ["", ""],
-            ["", ""],
-            ["", ""],
-            ["", ""],
-            ["", ""],
-            ["", ""],
-            ["", ""],
-            ["", ""],
-            ["", ""],
-            ["", ""],
-            ["", ""],
-            ["", ""],
-            ["", ""],
-            ["", ""],
-            ["", ""],
-            ["", ""],
-            ["", ""],
-            ["", ""],
-            ["", ""],
-            ["", ""],
-            ["", ""],
-            ["", ""]
+            ["quadrangle", "(특히 학교나 대학에서 건물이 사방으로 둘러싸고 있는) 사각형 안뜰"]
+
         ]
     },
     {
         "Script":"",
         "Words":[
-            ["", ""],
-            ["", ""],
-            ["", ""],
-            ["", ""],
-            ["", ""]
+
         ]
     },
     {
         "Script":"",
         "Words":[
-            ["", ""],
-            ["", ""],
-            ["", ""],
-            ["", ""],
-            ["", ""]
+
         ]
     },
     {
         "Script":"",
         "Words":[
-            ["", ""],
-            ["", ""],
-            ["", ""],
-            ["", ""],
-            ["", ""]
+
         ]
     },
     {
