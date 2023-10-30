@@ -82,6 +82,7 @@
 
 // slider.value = 0
 github_word_list_folder_file_list_api = "https://api.github.com/repos/hoonisone/hoonisone.github.io/contents/word_note/word_list"
+var avoid = new Array("index.html", "main.js", ".DS_Store");
 
 fetch(github_word_list_folder_file_list_api)
 .then(response => {
@@ -90,7 +91,7 @@ fetch(github_word_list_folder_file_list_api)
 .then(jsondata => {
     console.log(jsondata)
     for (var json of jsondata){
-        if(json["name"] in ["index.html", "main.js", ".DS_Store"]){
+        if(avoid.includes(json["name"])){
             continue
         }
         document.body.innerHTML += `<a href="https://hoonisone.github.io/word_note/word_list/${json["name"]}">${json["name"]}</a><br>`
