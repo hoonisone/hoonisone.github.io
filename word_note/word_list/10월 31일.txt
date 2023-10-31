@@ -1,10 +1,10 @@
-span		(지역에) 걸치다.
-all but		거의
-grapple with	~와 씨름하다.
-grit		투지
-ordeal		시련
-delegate 	대표
-commitment	헌신, 공헌
-convention	대회, 협의회
-reiterate	다시 말하다. 반복하다.
-
+deficit 			적자
+balance out			균형이 잡히다.
+abrupt				갑작스런
+abruptly			갑작스럽게
+tariff				관세
+proactive			적극적인
+with regard to			~에 관하여
+reached with			~와 계약을 맺은
+overtake			~을 추월하다.
+wipe out			~을 제거하다. 없애다.
